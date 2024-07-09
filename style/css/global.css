@@ -1037,6 +1037,10 @@ p, h1, h2, h3, h4, h5, h6, ul, li {
   background-image: url("../img/exp/exp_javascript.svg");
 }
 
+.experience__icon--typescript {
+  background-image: url("../img/exp/TypeScript.png");
+}
+
 .experience__icon--sass {
   background-image: url("../img/exp/Csharp.png");
 }
